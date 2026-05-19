@@ -1,5 +1,7 @@
 // swift-string-operations-demo.swift
 
+import Foundation
+
 let str = "Hello Swift"
 
 // 字符串长度
