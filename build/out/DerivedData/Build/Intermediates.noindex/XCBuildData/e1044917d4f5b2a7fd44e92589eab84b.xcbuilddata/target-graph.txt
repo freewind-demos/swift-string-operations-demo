@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_string_operations_demo' in project 'swift_string_operations_demo' (no dependencies)
